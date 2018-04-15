@@ -6,7 +6,7 @@ function limit(min, max, nr) {
 
 // Returns a random number between min (included) and max (excluded)
 function randomBetween(min, max) {
-    return Math.floor(min + Math.random() * (max - min))
+    return Math.floor(min + Math.random() * (max - min));
 }
 
 class Entity {
