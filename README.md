@@ -13,6 +13,13 @@ This project is part of the Front-End Web Developer Nanodegree Program by [Udaci
 * Something happens when player wins
 * Game objects (player and vehicles) are implemented using JavaScript object-oriented programming features.
 
+## Future implementations
+
+* Life counter system
+* Points system
+* Difficulty factor
+* Mobile friendly
+
 ## Resources
 
 * [Udacity's original repository](https://github.com/udacity/frontend-nanodegree-arcade-game)
