@@ -133,12 +133,12 @@ class Player extends Entity {
         // if (this.lives > 1) {
         //     this.lives -= 1;
         // } else {
-        window.alert("Try again!");
+        window.alert('Try again!');
         // }
     }
 
     victory() {
-        window.alert("You win!");
+        window.alert('You win!');
         this.x = this.beginX;
         this.y = this.beginY;
         this.gameOver = false;
